@@ -5,7 +5,7 @@ Este laboratorio tiene la finalidad de predecir el precio de las acciones de una
 
 
 ## Imagen del Sharpe Ratio
-![alt text](image.png)
+![alt text](a4e6fce9-3927-4511-9311-21c541b5ecce.jpg)
 
 ## Configuration
 * sharpe_ratio: 5.19
